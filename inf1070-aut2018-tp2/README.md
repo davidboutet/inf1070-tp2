@@ -2,6 +2,7 @@
 
 ## Mises-à-jour
 
+* 25 novembre: Déplacement de la date de remise
 * 14 novembre: Première version
 
 ## Énoncé
@@ -55,7 +56,7 @@ Les énoncés des exercices s'obtiennent en suivant les liens ci-bas:
 
 ## Modalités de remise
 
-Votre travail doit être remis au plus tard le **7 décembre 2018** à **23h55**
+Votre travail doit être remis au plus tard le **13 décembre 2018** à **23h55**
 par l'intermédiaire de la plateforme [Moodle](https://www.moodle.uqam.ca).
 Vous ne devez remettre qu'un seul fichier nommé exactement `tp2.tgz`.  Une
 pénalité de **2 points** par heure de retard sera appliquée.  Notez que vous

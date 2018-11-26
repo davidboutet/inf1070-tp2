@@ -58,7 +58,7 @@ dernière fois ce jour-là:
 Un script Gnuplot est disponible dans le fichier `genhist.gnuplot`.  Pour
 l'utiliser, vous devez d'abord installer l'application
 [Gnuplot](http://www.gnuplot.info/) (elle s'installe par exemple avec `sudo apt
-get install gnuplot` sur Ubuntu). Le script fourni lit les données sur l'entrée
+install gnuplot` sur Ubuntu). Le script fourni lit les données sur l'entrée
 standard (`stdin`) et produit un histogramme au format png. Par exemple, la
 commande
 

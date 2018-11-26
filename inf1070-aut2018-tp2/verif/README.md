@@ -57,6 +57,7 @@ Les commandes suivantes devraient suffire:
 - `cat`
 - `grep`
 - `test`
+- `head`
 
 Aussi, pour l'affichage du rapport, n'hésitez pas à utiliser un document en
 ligne (*heredoc*).

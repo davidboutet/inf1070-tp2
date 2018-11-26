@@ -32,10 +32,12 @@ Impossible de décompresser le fichier: format non reconnu
 
 puisque `README.md` n'est pas un fichier compressé.
 
-## Remarque
+## Remarques
 
-Votre solution doit être générale, c'est-à-dire qu'elle ne doit pas uniquement
-se baser sur l'extension du fichier.
+* Votre solution doit être générale, c'est-à-dire qu'elle ne doit pas uniquement
+  se baser sur l'extension du fichier.
+* Le fichier original doit être conservé. Autrement dit, votre script doit
+  produire un nouveau fichier et conserver l'ancien.
 
 ## Aide
 
